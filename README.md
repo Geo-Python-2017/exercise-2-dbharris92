@@ -86,6 +86,7 @@ changed selectedStation to stationIndex line 43
 
 ## Problem 2
 [script](https://github.com/Geo-Python-2017/exercise-2-dbharris92/blob/master/average_temps.py)
+
 I had some difficulty figuring out how to obtain the temperature from the corresponding value in the month list, so I had to look back 
 in the lesson on how to grab a value from a list.
 
@@ -93,7 +94,7 @@ in the lesson on how to grab a value from a list.
 This module was great!
 
 ## For Fun
-[an eagle](Images/adler-2386314_640.jpg)
+![an eagle](Images/adler-2386314_640.jpg)
 
 
 # Text Help
