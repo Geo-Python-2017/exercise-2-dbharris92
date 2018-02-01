@@ -94,7 +94,8 @@ in the lesson on how to grab a value from a list.
 This module was great!
 
 ## For Fun
-![an eagle](Images/adler-2386314_640.jpg)
+![an eagle](Images/adler-2386314_640.jpg) </br>
+*Figure 1: an eagle*
 
 
 # Text Help
@@ -104,6 +105,6 @@ You may want to read a bit more about [formatting text in Github-flavored Markdo
 You can see an example of how to display an image with a caption below.
 
 ![Text shown if image does not load](Images/green-tree-python.jpg)<br/>
-*Figure 1: A green tree python*
+*Figure 2: A green tree python*
 
 Here is a bit more text beneath the image. Have fun!
