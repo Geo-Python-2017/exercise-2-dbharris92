@@ -34,13 +34,13 @@ stationNames = ['Harmaja', 'Kaisaniemi', 'Kaivopuisto', 'Kumpula', 'lighthouse',
 stationStartYears = [1989, 1844, 1904, 2005, 2003, 1937, 2016, 2012]
 
 # Set the selected station
-selectedStation = 'Harmaja'
+selectedStation = 'Malmi airfield'
 
 # Find location of selected station
 stationIndex = stationNames.index(selectedStation)
 
 # Calculate operational years
-stationYears = 2017 - stationStartYears[selectedStation]
+stationYears = 2017 - stationStartYears[stationIndex]
 
 # Print station name and number of years of operation on screen
 print("The Helsinki", selectedStation, "station has been operational for", \
