@@ -22,7 +22,7 @@ Author:
     David Whipp - 10.9.2017
 
 Modified by:
-    None
+    Drew Harris 31.1.2018
 '''
 
 # Create and fill lists of station names and starting years for observation
@@ -44,4 +44,4 @@ stationYears = 2017 - stationStartYears[selectedStation]
 
 # Print station name and number of years of operation on screen
 print("The Helsinki", selectedStation, "station has been operational for", \
-      stationYears, "years.)
+      stationYears, "years.")
