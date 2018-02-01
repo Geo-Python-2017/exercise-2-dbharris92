@@ -80,6 +80,11 @@ You can add it under the Problem 3 heading in the answers.
 
 # Answers
 ## Problem 1
+Fixed syntax error line 47
+added station str line 37
+changed selectedStation to stationIndex line 43
+
+# Text Help
 This is some text.
 You can use *italics* or **bold** text easily.
 You may want to read a bit more about [formatting text in Github-flavored Markdown](https://help.github.com/articles/basic-writing-and-formatting-syntax/).
